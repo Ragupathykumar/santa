@@ -14,7 +14,8 @@ public class OverrideB extends OverrideA {
 		R.UG();
 		R.UG();
 		RR.PG();
-		RR.UG();
+	RR.equals("");
+	
 		
 	}
 	
